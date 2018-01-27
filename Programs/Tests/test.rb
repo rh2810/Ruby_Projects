@@ -1,3 +1,3 @@
 class Test
-  printf("Hello, world!")
+  printf("Hello, world")
 end
